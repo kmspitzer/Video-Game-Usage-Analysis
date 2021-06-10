@@ -1,11 +1,5 @@
 # pandas-challenge
 
-UCSD Data Science and Visualization Bootcamp - Pandas HW 16 Dec 2020
-
-
-This repository contains files pertaining to the Pandas Homework due 16 Dec 2020.
-
-
 
 NOTE: Statistical Observations made based on Heroes Of Pymoli analysis is contained in PandasHeroesOfPymoli_observations.docx
 

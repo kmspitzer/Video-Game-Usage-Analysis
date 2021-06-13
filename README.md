@@ -1,4 +1,4 @@
-# pandas-challenge
+# Video-Game-Usage-Analysis
 
 
 NOTE: Statistical Observations made based on Heroes Of Pymoli analysis is contained in PandasHeroesOfPymoli_observations.docx
